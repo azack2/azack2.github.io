@@ -1,1 +1,10 @@
 
+h1 { 
+  font-size: 70px;
+}
+img {
+width: 200px;
+  border-radius: 50%;
+  box-shadow: gray 10px 0px 0px;
+  margin: 0px 250px 0px
+}
